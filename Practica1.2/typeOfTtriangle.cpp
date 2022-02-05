@@ -15,7 +15,7 @@ int main(){
     }else if(sideA == sideB || sideB == sideC || sideA == sideC){
         cout << "The triangle is Isosceles";
     }else{
-        cout << "The triangle is Scalane";
+        cout << "The triangle is Scalene";
     }
     return 0;
 }
