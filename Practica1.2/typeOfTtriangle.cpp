@@ -1,3 +1,7 @@
+/*
+I have already completed this code for python, this is a "Translation" of that code
+*/
+
 #include <iostream>
 using namespace std;
 
