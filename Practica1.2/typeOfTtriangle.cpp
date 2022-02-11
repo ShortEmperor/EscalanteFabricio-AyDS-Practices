@@ -14,7 +14,7 @@ int main(){
     cout << "Type in the third side of the triangle: ";
     cin >> sideC;
 
-    if(sideA == sideB and sideB == sideC){
+    if(sideA == sideB && sideB == sideC){
         cout << "The triangle is equilateral!";
     }else if(sideA == sideB || sideB == sideC || sideA == sideC){
         cout << "The triangle is Isosceles";
@@ -22,4 +22,4 @@ int main(){
         cout << "The triangle is Scalene";
     }
     return 0;
-}
+}   
